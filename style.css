@@ -1,0 +1,53 @@
+/* 全体 */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+               "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+  background-color: #ffffff;
+  color: #222;
+  line-height: 1.75;
+  margin: 0;
+}
+
+/* コンテンツ */
+.container {
+  padding: 32px 24px 48px;
+}
+
+/* メインタイトル */
+h1 {
+  font-size: 26px;
+  margin: 0 0 32px;
+  font-weight: 600;
+}
+
+/* セクション見出し */
+h2 {
+  font-size: 18px;
+  margin: 36px 0 12px;
+  font-weight: 600;
+  padding-left: 10px;
+  border-left: 3px solid #4f6bed;
+}
+
+/* 本文 */
+p {
+  margin: 0 0 14px;
+}
+
+/* リンク */
+a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* フッター */
+.footer {
+  margin-top: 40px;
+  padding-top: 16px;
+  border-top: 1px solid #ddd;
+  font-size: 14px;
+}
